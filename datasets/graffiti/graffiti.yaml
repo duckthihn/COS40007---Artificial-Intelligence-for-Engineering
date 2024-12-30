@@ -1,0 +1,4 @@
+train: D:\Swinburne\COS40007 - Artificial Intelligence for Engineering\datasets\graffiti\images\train_selected
+val: D:\Swinburne\COS40007 - Artificial Intelligence for Engineering\datasets\graffiti\images\test_selected
+nc: 1
+names: [Graffiti]

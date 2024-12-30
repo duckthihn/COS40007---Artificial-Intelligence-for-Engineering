@@ -1,0 +1,6 @@
+# Normalize all text files to LF
+* text=auto
+
+# Handle specific file types
+*.ipynb text eol=lf
+*.csv text eol=lf
